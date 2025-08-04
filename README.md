@@ -24,7 +24,7 @@
     <h2 style="border-bottom: 1px solid #dddddd; color: #222222;"> Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/studio.surok?igsh=aTI1cW56N3ZyNG0=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/studio.surok?igsh=aTI1cW56N3ZyNG0="> </a>
           </div>  <br> 
-    <div style="text-align: left;"> <p>iso99jsj@naver.com</p>
+    <div style="text-align: left;"> <p>Email : iso99jsj@naver.com</p>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
