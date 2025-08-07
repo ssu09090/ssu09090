@@ -4,8 +4,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #222222;"> 사용자의 흐름을 읽고 경험을 디자인하다  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <li> 사용자의 흐름을 섬세하게 관찰하고, 누구나 직관적으로 이해되는 자연스러운 UI/UX를 만듭니다. </li>
+        <li> 사용자의 흐름을 섬세하게 관찰하고, 누구나 직관적으로 이해되는 자연스러운 UI/UX를 만듭니다 </li>
         <li> 트렌드를 관찰하고, 브랜드의 결을 따라가는 웹 디자이너 & 퍼블리셔 정수진입니다 </li>
+        <li> 작은 디테일에서도 경험을 만들고, 사용자에게 따뜻하게 다가가는 디자이너를 꿈꿉니다 </li>
     </div> 
     </div>
     <div style="text-align: left;">
